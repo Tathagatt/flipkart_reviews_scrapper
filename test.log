@@ -1,0 +1,93 @@
+2021-03-11 22:34:55,664:INFO:flipkrat.py:Url hitted
+2021-03-11 22:34:55,871:INFO:flipkrat.py:login popup handled
+2021-03-11 22:34:56,219:INFO:flipkrat.py:Search begins
+2021-03-11 22:34:59,039:INFO:flipkrat.py:Data saved in scrapper file
+2021-03-11 22:35:58,120:INFO:flipkrat.py:Url hitted
+2021-03-11 22:35:58,315:INFO:flipkrat.py:login popup handled
+2021-03-11 22:35:58,591:INFO:flipkrat.py:Search begins
+2021-03-11 22:36:01,400:INFO:flipkrat.py:Data saved in scrapper file
+2021-03-11 22:36:23,309:INFO:flipkrat.py:Url hitted
+2021-03-11 22:36:23,496:INFO:flipkrat.py:login popup handled
+2021-03-11 22:36:23,770:INFO:flipkrat.py:Search begins
+2021-03-11 22:36:33,418:INFO:flipkrat.py:Url hitted
+2021-03-11 22:36:33,647:INFO:flipkrat.py:login popup handled
+2021-03-11 22:36:34,002:INFO:flipkrat.py:Search begins
+2021-03-11 22:36:36,914:INFO:flipkrat.py:Data saved in scrapper file
+2021-03-11 22:37:59,845:INFO:flipkrat.py:Thread run completed
+2021-03-12 18:10:07,996:INFO:flipkrat.py:Url hitted
+2021-03-12 18:10:08,216:INFO:flipkrat.py:login popup handled
+2021-03-12 18:10:08,649:INFO:flipkrat.py:Search begins for Nike
+2021-03-12 18:10:15,835:INFO:flipkrat.py:Data saved in scrapper file
+2021-03-12 18:21:17,976:INFO:flipkrat.py:Url hitted
+2021-03-12 18:21:18,307:INFO:flipkrat.py:login popup handled
+2021-03-12 18:21:18,661:INFO:flipkrat.py:Search begins for shorts
+2021-03-12 18:21:45,120:INFO:flipkrat.py:Thread run completed
+2021-03-12 18:51:46,598:INFO:flipkrat.py:Url hitted
+2021-03-12 18:51:46,854:INFO:flipkrat.py:login popup handled
+2021-03-12 18:51:47,148:INFO:flipkrat.py:Search begins for Nike
+2021-03-12 18:51:52,934:INFO:flipkrat.py:Data saved in scrapper file
+2021-03-12 18:59:13,412:INFO:flipkrat.py:Url hitted
+2021-03-12 18:59:13,585:INFO:flipkrat.py:login popup handled
+2021-03-12 18:59:13,871:INFO:flipkrat.py:Search begins for Nike
+2021-03-12 18:59:20,027:INFO:flipkrat.py:Data saved in scrapper file
+2021-03-12 19:05:39,138:INFO:flipkrat.py:Url hitted
+2021-03-12 19:05:39,293:INFO:flipkrat.py:login popup handled
+2021-03-12 19:05:39,627:INFO:flipkrat.py:Search begins for Saree
+2021-03-12 19:05:45,435:INFO:flipkrat.py:Data saved in scrapper file
+2021-03-12 19:48:30,551:INFO:flipkrat.py:Url hitted
+2021-03-12 19:48:32,022:INFO:flipkrat.py:login popup handled
+2021-03-12 19:48:33,971:INFO:flipkrat.py:Search begins for Nike
+2021-03-12 19:48:39,271:INFO:flipkrat.py:Data saved in scrapper file
+2021-03-12 19:52:16,469:INFO:flipkrat.py:Url hitted
+2021-03-12 19:52:16,797:INFO:flipkrat.py:login popup handled
+2021-03-12 19:52:17,244:INFO:flipkrat.py:Search begins for Nike
+2021-03-12 19:52:19,627:INFO:flipkrat.py:Data saved in scrapper file
+2021-03-12 22:38:31,082:INFO:flipkrat.py:Url hitted
+2021-03-12 22:38:31,387:INFO:flipkrat.py:login popup handled
+2021-03-12 22:38:31,835:INFO:flipkrat.py:Search begins for Nike
+2021-03-12 22:38:38,080:INFO:flipkrat.py:Data saved in scrapper file
+2022-03-15 10:46:17,541:INFO:flipkrat.py:Url hitted
+2022-03-15 10:46:17,666:INFO:flipkrat.py:login popup handled
+2022-03-15 10:46:17,800:INFO:flipkrat.py:Search begins for samsung
+2022-03-15 10:48:34,926:INFO:flipkrat.py:Url hitted
+2022-03-15 10:48:35,007:INFO:flipkrat.py:login popup handled
+2022-03-15 10:48:35,156:INFO:flipkrat.py:Search begins for bat
+2022-03-15 11:10:12,767:INFO:flipkrat.py:Url hitted
+2022-03-15 11:10:12,867:INFO:flipkrat.py:login popup handled
+2022-03-15 11:10:13,036:INFO:flipkrat.py:Search begins for bat
+2022-03-15 11:12:38,597:INFO:flipkrat.py:Url hitted
+2022-03-15 11:12:38,673:INFO:flipkrat.py:login popup handled
+2022-03-15 11:12:38,825:INFO:flipkrat.py:Search begins for bat
+2022-03-15 11:12:56,715:INFO:flipkrat.py:Url hitted
+2022-03-15 11:12:56,840:INFO:flipkrat.py:login popup handled
+2022-03-15 11:12:57,015:INFO:flipkrat.py:Search begins for iphone
+2022-03-15 11:18:12,110:INFO:flipkrat.py:Url hitted
+2022-03-15 11:18:12,213:INFO:flipkrat.py:login popup handled
+2022-03-15 11:18:12,375:INFO:flipkrat.py:Search begins for samsung
+2022-03-15 11:20:10,135:INFO:flipkrat.py:Url hitted
+2022-03-15 11:20:10,247:INFO:flipkrat.py:login popup handled
+2022-03-15 11:20:10,413:INFO:flipkrat.py:Search begins for bat
+2022-03-15 11:30:54,346:INFO:flipkrat.py:Url hitted
+2022-03-15 11:30:54,478:INFO:flipkrat.py:login popup handled
+2022-03-15 11:30:54,646:INFO:flipkrat.py:Search begins for bat
+2022-03-15 11:31:29,952:INFO:flipkrat.py:Thread run completed
+2022-03-15 11:31:44,056:INFO:flipkrat.py:Url hitted
+2022-03-15 11:31:44,142:INFO:flipkrat.py:login popup handled
+2022-03-15 11:31:44,290:INFO:flipkrat.py:Search begins for bat
+2022-03-15 11:31:48,301:INFO:flipkrat.py:Data saved in scrapper file
+2022-03-15 15:51:07,219:INFO:flipkrat.py:Url hitted
+2022-03-15 15:51:07,284:INFO:flipkrat.py:login popup handled
+2022-03-15 15:51:07,411:INFO:flipkrat.py:Search begins for bat
+2022-03-15 15:51:13,065:INFO:flipkrat.py:Data saved in scrapper file
+2022-03-15 16:06:42,858:INFO:flipkrat.py:Url hitted
+2022-03-15 16:06:42,942:INFO:flipkrat.py:login popup handled
+2022-03-15 16:06:43,080:INFO:flipkrat.py:Search begins for razor
+2022-03-15 16:07:52,837:INFO:flipkrat.py:Thread run completed
+2022-03-16 15:28:24,558:INFO:flipkrat.py:Url hitted
+2022-03-16 15:28:25,937:INFO:flipkrat.py:login popup handled
+2022-03-16 15:28:26,073:INFO:flipkrat.py:Search begins for oneplus
+2022-03-16 15:30:06,980:INFO:flipkrat.py:Thread run completed
+2022-04-23 19:44:29,446:INFO:flipkrat.py:Url hitted
+2022-04-23 19:44:29,535:INFO:flipkrat.py:login popup handled
+2022-04-23 19:44:29,697:INFO:flipkrat.py:Search begins for iphone
+2022-04-23 19:45:17,328:INFO:flipkrat.py:Thread run completed
